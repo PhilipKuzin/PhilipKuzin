@@ -6,10 +6,10 @@ Unity разработчик
 
 Изучаю разработку игр с августа 2023 года. До этого работал преподавателем робототехники и программирования.
 
-В текущий момент нахожусь в Москве.
-Ознакомиться с моим [резюме](https://hh.ru/resume/368c034dff082b28bb0039ed1f556f41335669?customDomain=1).
-Посмотреть мои [проекты](https://philipkuzin.itch.io).
-Связаться со мной [kuzinphilipp@gmail.com](mailto:kuzinphilipp@gmail.com)
+В текущий момент нахожусь в Москве. <br />
+Ознакомиться с моим [резюме](https://hh.ru/resume/368c034dff082b28bb0039ed1f556f41335669?customDomain=1). <br />
+Посмотреть мои [проекты](https://philipkuzin.itch.io). <br />
+Связаться со мной [kuzinphilipp@gmail.com](mailto:kuzinphilipp@gmail.com) <br />
 
 ### Skills
 

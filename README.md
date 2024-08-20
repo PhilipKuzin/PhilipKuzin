@@ -8,7 +8,6 @@ Unity developer
 
 В текущий момент нахожусь в Москве. <br />
 Ознакомиться с моим [резюме](https://hh.ru/resume/368c034dff082b28bb0039ed1f556f41335669?customDomain=1). <br />
-Посмотреть мои [проекты](https://philipkuzin.itch.io). <br />
 Связаться со мной по почте [kuzinphilipp@gmail.com](mailto:kuzinphilipp@gmail.com) или через [Telegram](https://t.me/oldroots) <br />
 
 ### Skills
